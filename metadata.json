@@ -1,0 +1,7 @@
+{
+  "name": "AgriShield",
+  "description": "A comprehensive climate-resilient farming suite providing structural designs, IoT monitoring, energy efficiency tools, and AI-driven climate decision support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
